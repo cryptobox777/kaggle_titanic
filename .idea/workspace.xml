@@ -2,38 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="133fcb8c-8e79-4fcf-9255-9cba61b7a9e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/titanic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/.ipynb_checkpoints/Introduction to Ensembling_Stacking in Python-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/.ipynb_checkpoints/Titanic - Advanced Feature Engineering Tutorial-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/.ipynb_checkpoints/titanic tutorial-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Introduction to Ensembling_Stacking in Python.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Titanic - Advanced Feature Engineering Tutorial.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Titanic xgboost 0.79904.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/model_nn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/model_xgb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/submissions.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/titanic tutorial.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/stacking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission/3-fold_cross-validation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission/StackingSubmission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission/StackingSubmission_Age.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission/gender_submission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission/glid_search.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission/train_test_daimax.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission/train_test_kyodaimax.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission/train_test_split.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Titanic xgboost 0.79904.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/Titanic xgboost 0.79904.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/model_nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/model_nn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/model_xgb.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/model_xgb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/stacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/stacking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/StackingSubmission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/submission/StackingSubmission.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,34 +19,35 @@
     <session id="-821038027">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="1" />
-          <entry key="py" value="3" />
+          <entry key="ipynb" value="2" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="1" />
-          <entry key="Python" value="3" />
+          <entry key="IPNB" value="2" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1553" />
+          <entry key="py" value="1589" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1553" />
+          <entry key="Python" value="1589" />
         </counts>
       </usages-collector>
     </session>
@@ -80,10 +55,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/input/stacking.py">
+        <entry file="file://$PROJECT_DIR$/code/stacking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="66">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="57" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
                 <marker date="1581673625008" expanded="true" signature="189:194" ph="..." />
@@ -93,12 +68,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/model.py">
+        <entry file="file://$USER_HOME$/.jupyter/jupyter_notebook_config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="389">
+              <caret line="860" column="74" selection-start-line="860" selection-start-column="74" selection-end-line="860" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/model_xgb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-176">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1085">
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/model_nn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1166">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -119,14 +121,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/input/stacking.py" />
+        <option value="$USER_HOME$/.jupyter/jupyter_notebook_config.py" />
+        <option value="$PROJECT_DIR$/code/model_nn.py" />
+        <option value="$PROJECT_DIR$/code/model_xgb.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="469" />
-    <option name="y" value="49" />
-    <option name="width" value="974" />
-    <option name="height" value="959" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -134,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,15 +151,26 @@
               <item name="titanic" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ShikiIto\Google ドライブ\kaggle\titanic\code" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,9 +198,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="469" y="49" width="974" height="959" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13171759" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -196,7 +212,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29454544" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2635575" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -208,24 +224,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.jupyter/jupyter_notebook_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="860" column="74" selection-start-line="860" selection-start-column="74" selection-end-line="860" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/Titanic - Advanced Feature Engineering Tutorial.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/model_nn.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/stacking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1581673625008" expanded="true" signature="189:194" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -234,6 +261,40 @@
         <state>
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/model_nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1166">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1085">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/model_xgb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/stacking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1581673625008" expanded="true" signature="189:194" ph="..." />
           </folding>
         </state>
       </provider>

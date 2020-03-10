@@ -4,8 +4,8 @@ import numpy as np
 import pandas as pd
 import xgboost as xgb
 
-from model import Model
-from util import Util
+from .model import Model
+from .util import Util
 
 
 class ModelXGB(Model):

@@ -10,8 +10,8 @@ from keras.models import Sequential, load_model
 from keras.utils import np_utils
 from sklearn.preprocessing import StandardScaler
 
-from model import Model
-from util import Util
+from .model import Model
+from .util import Util
 
 # tensorflowの警告抑制
 import os
